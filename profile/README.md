@@ -8,6 +8,7 @@ Resources:
 
 * [Our Unreal Engine plugins](https://www.unrealengine.com/marketplace/en-US/profile/Nineva+Studios)
 * [Our Unity Assets](https://assetstore.unity.com/publishers/5296)
+* [Discord Server](https://bit.ly/nineva_support_discord)
 
 ---
 
