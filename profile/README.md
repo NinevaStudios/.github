@@ -14,4 +14,4 @@ Resources:
 
 Follow us on:
 
-* [LinkenInd](https://www.linkedin.com/company/33207432)
+* [LinkedIn](https://www.linkedin.com/company/33207432)
